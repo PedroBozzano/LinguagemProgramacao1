@@ -11,5 +11,5 @@ Executado 10 exercícios de treinamento de Classe, Método e Atributo.
 ## Lista Exercício 3 = *(ListasArray)*
 Fazer 15 Exercício sobre listas e arrays passados em sala de aula.
 
-## Lista Exercício 4 = *(Tratamento de Excessão Try_Catch)*
+## Lista Exercício 4 = *(TryCatch)*
 Executado exercício sobre tratamento de excessão *Try Catch*
